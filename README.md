@@ -4,7 +4,7 @@
 
     ```bash
     git clone https://github.com/vignesh3003/Sentiment_analysis.git
-    cd your-repository
+    cd vignesh3003
     ```
 
 2. Create and activate a virtual environment:
