@@ -3,7 +3,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/vignesh3003/Sentiment_analysis.git
     cd your-repository
     ```
 
